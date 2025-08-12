@@ -1,5 +1,6 @@
-streamlit
-pandas
-matplotlib
-seaborn
+streamlit==1.38.0
+pandas==2.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
 openpyxl
+
